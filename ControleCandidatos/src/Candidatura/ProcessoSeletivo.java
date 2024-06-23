@@ -4,7 +4,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class ProcessoSeletivo {
  public static void main(String[] args) {
-	 String [] candidatos = {"Felipe", "Marcia","Julia","Paulo","Augusto"};
+	 String [] candidatos = {"Felip", "Marcia","Julia","Paulo","Augusto"};
 	 for(String candidato: candidatos) {
 		 entrandoEmContato(candidato);
 	 }
